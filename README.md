@@ -1,11 +1,11 @@
 
 <h1 align="center">Hey 👋, I'm Philqcaly <img src="https://cdn.discordapp.com/emojis/880521883739648060.gif?size=4096" width="50"></h1>
-<h3 align="center">Java/JavaScript Developer</h3>
+<h3 align="center">Java/JavaScript/Kotlin Developer</h3>
 
 
 - 🔭 I’m currently working on [Personal Projects](https://Philqcaly.ir/)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript** And **Kotlin**
 
 ### - ⭕ More About Me :
 
