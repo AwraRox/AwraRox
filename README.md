@@ -10,10 +10,10 @@
 ### - ⭕ More About Me :
 
 ```javascript
-const Philqcaly = {
+const Mehran = {
   pronouns: "Boy",
-  Team: "OnlyGod",
-  projet: "Soon"
+  Team: "Nothing",
+  projet: "Nothing"
 }
 ```
 
