@@ -19,7 +19,7 @@ const Mehran = {
 
 <h3 align="left">- 💻 Social Media :</h3>
 <p align="left">
-<a href="https:https://discord.gg/Philqcaly#3568"><img alt="Discord - Philqcaly#3568" title="Discord - Philqcaly#3568" height="32" width="32" src=https://cdn.discordapp.com/attachments/906990335006220318/911332020028846181/discord-mascot.png></a>
+<a href="https:https://discord.gg/Philqcaly#3568"><img alt="Discord - Philqcaly#3568" title="Discord - Mehran 🌙#3568" height="32" width="32" src=https://cdn.discordapp.com/attachments/906990335006220318/911332020028846181/discord-mascot.png></a>
 <a href="https://instagram.com/imusingreach"><img alt="Instagram - ImUsingReach" title="Instagram - ImUsingReach" height="32" width="32" src=https://cdn.discordapp.com/attachments/864936919312629850/911264557777952869/instagram.png></a>
 <a href="https://t.me/Philqcaly"><img alt="Telegram - Philqcaly" title="Telegram - Philqcaly" height="32" width="32" src=https://cdn.discordapp.com/attachments/912414110732419123/916621972081885204/telegram_PNG34.png></a>
 </p>
