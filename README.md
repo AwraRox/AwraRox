@@ -36,7 +36,7 @@
 <h1 align="center"><img src="https://cdn.discordapp.com/emojis/1014231138249752607.webp?size=80&quality=lossless" width="22"> TOOLS</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse,github,discord,bots,linux,ps&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,eclipse,github,discord,bots,linux,ps&theme=dark" />
     </br>
     </br>
   </a>
