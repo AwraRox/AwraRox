@@ -8,7 +8,6 @@
 
 
 <br>
-
  <h1 align="center"><img src="https://cdn.discordapp.com/emojis/1014231138249752607.webp?size=80&quality=lossless" width="22"> HOW TO REACH ME </h1> 
 <p align="center">
     <a href="https://instagram.com/awrarox">
@@ -21,12 +20,9 @@
         <img src="https://skillicons.dev/icons?i=twitter&theme=dark">
     </a>
 </p>
-  
 <br/>  
 
-
 <br>
-
 <h1 align="center"><img src="https://cdn.discordapp.com/emojis/1046881199567667280.webp?size=80&quality=lossless" width="22"> LANGUAGES</h1>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -35,12 +31,9 @@
     </br>
   </a>
 </p>
-
 </br>
 
-
 <br>
-
 <h1 align="center"><img src="https://cdn.discordapp.com/emojis/1014231138249752607.webp?size=80&quality=lossless" width="22"> TOOLS</h1>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -49,6 +42,4 @@
     </br>
   </a>
 </p>
-
 </br>
-
