@@ -1,34 +1,54 @@
 
 <h1 align="center">Hey 👋, I'm The Butcher ( AwraRox ) <img src="https://cdn.discordapp.com/emojis/880521883739648060.gif?size=4096" width="50"></h1>
-<h3 align="center">Java/JavaScript Developer</h3>
 
 
 - 🔭 I’m currently working on [Personal Projects](https://ImUsingReach.ir/)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript / Kotlin**
 
-### - ⭕ More About Me :
 
-```javascript
-const Mehran = {
-  pronouns: "Boy",
-  Team: "Nothing",
-  projet: "Nothing"
-}
-```
+<br>
 
-<h3 align="left">- 💻 Social Media :</h3>
-<p align="left">
-<a href="https:https://discord.gg/- Reach 🌙#3568"><img alt="Discord - Reach 🌙#3568" title="Discord - Reach 🌙#3568" height="32" width="32" src=https://cdn.discordapp.com/attachments/906990335006220318/911332020028846181/discord-mascot.png></a>
-<a href="https://instagram.com/imusingreach"><img alt="Instagram - ImUsingReach" title="Instagram - ImUsingReach" height="32" width="32" src=https://cdn.discordapp.com/attachments/864936919312629850/911264557777952869/instagram.png></a>
-<a href="https://t.me/Mehran"><img alt="Telegram - Mehran" title="Telegram - Mehran" height="32" width="32" src=https://cdn.discordapp.com/attachments/912414110732419123/916621972081885204/telegram_PNG34.png></a>
+ <h1 align="center"><img src="https://cdn.discordapp.com/emojis/1014231138249752607.webp?size=80&quality=lossless" width="22"> HOW TO REACH ME </h1> 
+<p align="center">
+    <a href="https://instagram.com/awrarox">
+        <img src="https://skillicons.dev/icons?i=instagram&theme=dark">
+    </a>
+    <a href="https://discord.com/users/876198461840711781">
+        <img src="https://skillicons.dev/icons?i=discord&theme=dark">
+    </a>
+    <a href="https://twitter.com/awrarox">
+        <img src="https://skillicons.dev/icons?i=twitter&theme=dark">
+    </a>
+</p>
+  
+<br/>  
+
+
+<br>
+
+<h1 align="center"><img src="https://cdn.discordapp.com/emojis/1046881199567667280.webp?size=80&quality=lossless" width="22"> LANGUAGES</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,nodejs,kotlin,python,php,mongodb,mysql,git&theme=dark" />
+    </br>
+    </br>
+  </a>
 </p>
 
+</br>
 
-<h3 align="left">- Languages and Tools:</h3>
-<p align="left">
-</a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-</a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-</a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-<img align="left" alt="IntelliJ" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
+
+<br>
+
+<h1 align="center"><img src="https://cdn.discordapp.com/emojis/1014231138249752607.webp?size=80&quality=lossless" width="22"> TOOLS</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse,github,discord,bots,linux,ps&theme=dark" />
+    </br>
+    </br>
+  </a>
+</p>
+
+</br>
 
