@@ -1,4 +1,3 @@
-
 <h1 align="center">Hey 👋, I'm The Butcher ( AwraRox ) <img src="https://cdn.discordapp.com/emojis/880521883739648060.gif?size=4096" width="50"></h1>
 
 
@@ -8,7 +7,7 @@
 
 
 <br>
- <h1 align="center"><img src="https://cdn.discordapp.com/emojis/1014231138249752607.webp?size=80&quality=lossless" width="22"> HOW TO REACH ME </h1> 
+ <h1 align="center"><img src="https://cdn.discordapp.com/emojis/1046878980776665138.webp?size=80&quality=lossless" width="26"> HOW TO REACH ME </h1> 
 <p align="center">
     <a href="https://instagram.com/awrarox">
         <img src="https://skillicons.dev/icons?i=instagram&theme=dark">
@@ -23,7 +22,7 @@
 <br/>  
 
 <br>
-<h1 align="center"><img src="https://cdn.discordapp.com/emojis/1046881199567667280.webp?size=80&quality=lossless" width="22"> LANGUAGES</h1>
+<h1 align="center"><img src="https://cdn.discordapp.com/emojis/1046881199567667280.webp?size=80&quality=lossless" width="23"> LANGUAGES</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,nodejs,kotlin,python,php,mongodb,mysql,git&theme=dark" />
@@ -43,3 +42,11 @@
   </a>
 </p>
 </br>
+
+<h1 align="center"> GITHUB STATUS</h1>
+
+<div align="center"> 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AwraRox&theme=radical)
+
+</div>
