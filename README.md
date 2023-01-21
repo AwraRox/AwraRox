@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/958094495419867166/1066412812315922462/104293834.png" align="center" height="60" width="60" />
+<img src="https://cdn.discordapp.com/attachments/958094495419867166/1066412812315922462/104293834.png" align="center" height="70" width="70" />
 </div>
 
 <h1 align="center">Hey 👋, I'm The Butcher ( AwraRox ) <img src="https://cdn.discordapp.com/emojis/880521883739648060.gif?size=4096" width="50"></h1>
