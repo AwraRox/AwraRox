@@ -2,7 +2,7 @@
 <img src="https://cdn.discordapp.com/attachments/958094495419867166/1066412812315922462/104293834.png" align="center" height="70" width="70" />
 </div>
 
-<h1 align="center">Hey 👋, I'm The Butcher ( AwraRox ) <img src="https://cdn.discordapp.com/emojis/880521883739648060.gif?size=4096" width="50"></h1>
+<h1 align="center">Hey 👋, I'm Mehran ( AwraRox ) </h1>
 
 
 - 🔭 I’m currently working on [Personal Projects](https://AwraRox.ir/)
@@ -29,7 +29,7 @@
 <h1 align="center"><img src="https://cdn.discordapp.com/emojis/1046881199567667280.webp?size=80&quality=lossless" width="23"> LANGUAGES</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,nodejs,kotlin,python,html,css,mongodb,mysql,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,js,nodejs,kotlin,python,mongodb,mysql,git&theme=dark" />
     </br>
     </br>
   </a>
