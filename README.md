@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Personal Projects](https://AwraRox.ir/)
 
-- 🌱 I’m currently learning **JavaScript / Kotlin**
+- 🌱 I’m currently learning **Kotlin**
 
 
 <br>
@@ -29,7 +29,7 @@
 <h1 align="center"><img src="https://cdn.discordapp.com/emojis/1046881199567667280.webp?size=80&quality=lossless" width="23"> LANGUAGES</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,nodejs,kotlin,python,mongodb,mysql,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,kotlin,mongodb,mysql,git&theme=dark" />
     </br>
     </br>
   </a>
@@ -40,7 +40,7 @@
 <h1 align="center"><img src="https://cdn.discordapp.com/emojis/1014231138249752607.webp?size=80&quality=lossless" width="22"> TOOLS</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,eclipse,github,discord,bots,linux,ps&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,github,discord,bots,linux&theme=dark" />
     </br>
     </br>
   </a>
